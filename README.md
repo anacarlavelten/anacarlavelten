@@ -5,7 +5,7 @@
 #### Sou estudante de Ciência da Computação na Universidade Vila Velha (UVV). Atualmente estou no 4º período e tenho grande interesse pela área de Desenvolvimento Full-Stack. Sou apaixonada por tecnologia e busco aprender algo novo todos os dias.
 
 <!-- Minha pixel Art -->
-<img align="right" src="https://github.com/user-attachments/assets/90f53c07-6ff4-4463-ad6d-c3a2b9ebdfb6" width="230px" />
+<img align="right" src="https://github.com/user-attachments/assets/63edf2eb-20dd-4ab7-b6e0-c7565bc27a25"/>
 
 <!-- redes sociais -->
 <p aling="left">
